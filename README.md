@@ -1,4 +1,4 @@
-Mã số sinh viên: 240228322832 Họ và tên: Hoàng Công Thắng
+Mã số sinh viên: 24022832 Họ và tên: Hoàng Công Thắng
 
 Lớp môn học: INT2215-6
 
