@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1747476224 source:d:\ki 2\lap trinh nang cao\src\main.cpp
+	"Game.h"
+
+1747475934 source:d:\ki 2\lap trinh nang cao\src\bullet.cpp
+	"Bullet.h"
+	"TextureManager.h"
+	"Game.h"
+	"Player.h"
+	<iostream>
+
+1747475965 d:\ki 2\lap trinh nang cao\src\bullet.h
+	<SDL.h>
+
+1747476135 d:\ki 2\lap trinh nang cao\src\texturemanager.h
+	<SDL.h>
+	<SDL_image.h>
+
+1747476437 d:\ki 2\lap trinh nang cao\src\game.h
+	<SDL.h>
+	<string>
+	"Player.h"
+	<SDL_ttf.h>
+	<vector>
+	<SDL_mixer.h>
+
+1747476344 d:\ki 2\lap trinh nang cao\src\player.h
+	<SDL.h>
+	<vector>
+	"Bullet.h"
+
+1747475825 source:d:\ki 2\lap trinh nang cao\src\player.cpp
+	"Player.h"
+	"TextureManager.h"
+	"Game.h"
+	"Bullet.h"
+	<iostream>
+
+1747476071 source:d:\ki 2\lap trinh nang cao\src\texturemanager.cpp
+	"TextureManager.h"
+	<iostream>
+	"Game.h"
+	<SDL_image.h>
+
+1747476820 source:d:\ki 2\lap trinh nang cao\src\game.cpp
+	"Game.h"
+	<iostream>
+	<SDL_ttf.h>
+	"Player.h"
+	"TextureManager.h"
+	<fstream>
+	"Bullet.h"
+	<cstdlib>
+	<ctime>
+	<string>
+
